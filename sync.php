@@ -1,3 +1,3 @@
 <?php
 
-	echo 'you like me ';
+	echo 'you like me,but just like me ';
